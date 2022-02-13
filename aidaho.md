@@ -11,5 +11,5 @@
 
 ## Рецепт приготовления
 Тут будет рецепт...
-[![Aidaho!](/assets/images/p_O.png "Aidaho")](https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/110816121851/170315165023/p_O.png)
-![Aidaho!](/assets/images/p_O.png "Aidaho")
+[![Aidaho](/assets/images/p_O.png "Aidaho")](https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/110816121851/170315165023/p_O.png)
+
