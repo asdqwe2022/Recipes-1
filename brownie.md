@@ -17,6 +17,7 @@
 
 ## Рецепт приготовления
 Тут будет рецепт...
+[![Brownie](/assets/images/p_O.jpg "Brownie")](https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/131113183908/1311271747010/p_O.jpg)
 
 
 
