@@ -11,3 +11,4 @@
 
 ## Рецепт приготовления
 Тут будет рецепт...
+![Aidaho!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
