@@ -13,4 +13,4 @@
 
 ## Рецепт приготовления
 Тут будет рецепт...
-[![Pikasso](/assets/images/p_O.png "Pikasso")](https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/110812141030/170314193620/p_O.png)
+[![Pikasso](images/p_O.png "Pikasso")](https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/110812141030/170314193620/p_O.png)
